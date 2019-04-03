@@ -19,3 +19,13 @@ Insert into classes Values   ( 'cSharp', 'B125', 'fri_pm', '1451');
 Insert into classes Values   ( 'math', 'B1111', 'wed_am', '1673');
 
 
+FOR ENROLLMENT
+
+Insert into enrollment Values ('107','1455');
+Insert into enrollment Values ('107','1247');
+Insert into enrollment Values ('106','1158');
+Insert into enrollment Values ('106','1673');
+Insert into enrollment Values ('108','1389');
+Insert into enrollment Values ('108','1451');
+Insert into enrollment Values ('105','1103');
+Insert into enrollment Values ('104','1203');
